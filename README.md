@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishali</h1>
-<h3 align="center">A passionate frontend developer with good communication skills</h3>
+<h3 align="center">A passionate developer and programmer with good communication skills</h3>
 <img align="right" alt="coding" width=300 src="https://media.tenor.com/S59bPkT0pqcAAAAS/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishali01102002&label=Profile%20views&color=0e75b6&style=flat" alt="vaishali01102002" /> </p>
